@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),
+    background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
     url("https://psci.depedpasay.ph/wp-content/uploads/2025/08/526560017_17851993005509945_6679035864244724218_n-300x300.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-    color: white;
+    color: black;
 }
 
 p {

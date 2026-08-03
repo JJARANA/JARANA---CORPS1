@@ -1,6 +1,6 @@
 body {
-    background-image: linear-gradient(rgba(255,255,255,60), rgba(255,255,255,60)),
-    url("https://parefwoodrose.edu.ph/wp-content/uploads/2021/11/11C.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.6), rgba(255,255,255,0.6)),
+    url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDHL2fFNmOvG9Nzpdtq9lEAHu5QcZee_a8QNIbB8u7w&s=10");
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -12,9 +12,9 @@ h1 {
 }
 
 h2 {
-    color: black;
+    color: white;
 }
 
 p {
-    color: black;
+    color: white;
 }

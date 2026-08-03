@@ -1,14 +1,17 @@
-
-
 body {
-    background-image: url("https://i.pinimg.com/736x/18/86/68/18866842e7da9bc33fa42a0eeff53e21.jpg");
+    background-image: url("https://parefwoodrose.edu.ph/wp-content/uploads/2021/11/11C.jpg");
     background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
     font-family: "Times New Roman";
 }
 
 h1 {
     color: yellow;
+}
+
+h2 {
+    color: white;
 }
 
 p {
